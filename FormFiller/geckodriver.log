@@ -145,3 +145,5 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: 
 1596098175506	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
 1596098345091	Marionette	INFO	Stopped listening on port 32999
+1596181938496	Marionette	INFO	Listening on port 39637
+1596181938547	Marionette	WARN	TLS certificate errors will be ignored for this session

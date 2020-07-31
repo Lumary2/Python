@@ -1,0 +1,147 @@
+1596094603444	Marionette	INFO	Listening on port 40139
+1596094603469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596094638978	Marionette	INFO	Stopped listening on port 40139
+1596094738711	Marionette	INFO	Listening on port 33451
+1596094738732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596094746593	Marionette	INFO	Stopped listening on port 33451
+1596094751653	Marionette	INFO	Listening on port 46093
+1596094751709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596094767644	Marionette	INFO	Stopped listening on port 46093
+1596094831935	Marionette	INFO	Listening on port 34133
+1596094832031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596094840006	Marionette	INFO	Listening on port 43415
+1596094840064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596094870086	Marionette	INFO	Stopped listening on port 34133
+1596094895962	Marionette	INFO	Listening on port 36837
+1596094896050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596094908583	Marionette	INFO	Stopped listening on port 43415
+1596094909616	Marionette	INFO	Stopped listening on port 36837
+1596094920164	Marionette	INFO	Listening on port 34733
+1596094920252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596095003145	Marionette	INFO	Listening on port 36099
+1596095003158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596095056576	Marionette	INFO	Stopped listening on port 34733
+1596095056663	Marionette	INFO	Stopped listening on port 36099
+1596095062456	Marionette	INFO	Listening on port 43377
+1596095062525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095084031	Marionette	INFO	Stopped listening on port 43377
+1596095089560	Marionette	INFO	Listening on port 37351
+1596095089636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095192130	Marionette	INFO	Listening on port 36561
+1596095192171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596095209006	Marionette	INFO	Stopped listening on port 36561
+1596095290274	Marionette	INFO	Stopped listening on port 37351
+1596095294666	Marionette	INFO	Listening on port 43313
+1596095294694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095372319	Marionette	INFO	Listening on port 33333
+1596095372385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596095381945	Marionette	INFO	Stopped listening on port 43313
+1596095383046	Marionette	INFO	Stopped listening on port 33333
+1596095388958	Marionette	INFO	Listening on port 44205
+1596095389046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095425304	Marionette	INFO	Stopped listening on port 44205
+1596095430190	Marionette	INFO	Listening on port 38681
+1596095430222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095432299	Marionette	INFO	Stopped listening on port 38681
+1596095510738	Marionette	INFO	Listening on port 36757
+1596095510766	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095513115	Marionette	INFO	Stopped listening on port 36757
+1596095523659	Marionette	INFO	Listening on port 44877
+1596095523695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095652251	Marionette	INFO	Stopped listening on port 44877
+1596095691766	Marionette	INFO	Listening on port 42823
+1596095691803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095716089	Marionette	INFO	Stopped listening on port 42823
+1596095721046	Marionette	INFO	Listening on port 45569
+1596095721082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095788038	Marionette	INFO	Stopped listening on port 45569
+1596095792742	Marionette	INFO	Listening on port 40361
+1596095792792	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095827714	Marionette	INFO	Stopped listening on port 40361
+1596095832437	Marionette	INFO	Listening on port 39239
+1596095832504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095863090	Marionette	INFO	Stopped listening on port 39239
+1596095868266	Marionette	INFO	Listening on port 35099
+1596095868341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095878653	Marionette	INFO	Stopped listening on port 35099
+1596095882655	Marionette	INFO	Listening on port 36089
+1596095882714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596095896902	Marionette	INFO	Listening on port 42313
+1596095896944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596095909532	Marionette	INFO	Stopped listening on port 42313
+1596095909535	Marionette	INFO	Stopped listening on port 36089
+1596095913617	Marionette	INFO	Listening on port 42215
+1596095913692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596096025578	Marionette	INFO	Stopped listening on port 42215
+1596097106779	Marionette	INFO	Listening on port 36853
+1596097106829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097120010	Marionette	INFO	Stopped listening on port 36853
+1596097142554	Marionette	INFO	Listening on port 39261
+1596097142637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097148346	Marionette	INFO	Stopped listening on port 39261
+1596097162491	Marionette	INFO	Listening on port 42069
+1596097162500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097174214	Marionette	INFO	Stopped listening on port 42069
+1596097183341	Marionette	INFO	Listening on port 41733
+1596097183380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1596097423281	Marionette	INFO	Stopped listening on port 41733
+1596097429014	Marionette	INFO	Listening on port 40629
+1596097429045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097561562	Marionette	INFO	Stopped listening on port 40629
+1596097566647	Marionette	INFO	Listening on port 42019
+1596097566675	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097581134	Marionette	INFO	Stopped listening on port 42019
+1596097587583	Marionette	INFO	Listening on port 33311
+1596097587656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097601704	Marionette	INFO	Stopped listening on port 33311
+1596097605374	Marionette	INFO	Listening on port 38923
+1596097605415	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097617536	Marionette	INFO	Stopped listening on port 38923
+1596097629796	Marionette	INFO	Listening on port 38895
+1596097629884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097686024	Marionette	INFO	Stopped listening on port 38895
+1596097840476	Marionette	INFO	Listening on port 40665
+1596097840526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596097936724	Marionette	INFO	Listening on port 45867
+1596097936767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596097948493	Marionette	INFO	Stopped listening on port 40665
+1596097948611	Marionette	INFO	Stopped listening on port 45867
+1596097955685	Marionette	INFO	Listening on port 38223
+1596097955743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596098034245	Marionette	INFO	Stopped listening on port 38223
+1596098039234	Marionette	INFO	Listening on port 43553
+1596098039255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596098161578	Marionette	INFO	Stopped listening on port 43553
+1596098175472	Marionette	INFO	Listening on port 32999
+1596098175506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1596098345091	Marionette	INFO	Stopped listening on port 32999

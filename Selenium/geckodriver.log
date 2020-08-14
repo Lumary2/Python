@@ -1,0 +1,84 @@
+1595492347984	Marionette	INFO	Listening on port 46089
+1595492348009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595494281845	Marionette	INFO	Listening on port 42617
+1595494281927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595494400088	Marionette	INFO	Listening on port 35831
+1595494400182	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595494512904	Marionette	INFO	Listening on port 46563
+1595494512974	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595494704265	Marionette	INFO	Listening on port 43205
+1595494704324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595494747111	Marionette	INFO	Listening on port 37841
+1595494747141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595494777148	Marionette	INFO	Stopped listening on port 46089
+1595494777496	Marionette	INFO	Stopped listening on port 35831
+1595494777529	Marionette	INFO	Stopped listening on port 46563
+1595494777851	Marionette	INFO	Stopped listening on port 43205
+1595494777947	Marionette	INFO	Stopped listening on port 42617
+1595494778697	Marionette	INFO	Stopped listening on port 37841
+1595495182187	Marionette	INFO	Listening on port 35131
+1595495182261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595495275307	Marionette	INFO	Listening on port 44675
+1595495275398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595495304036	Marionette	INFO	Listening on port 36343
+1595495304134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595495410124	Marionette	INFO	Listening on port 38071
+1595495410194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595495455711	Marionette	INFO	Listening on port 44653
+1595495455750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595495584581	Marionette	INFO	Listening on port 41719
+1595495584635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595495654677	Marionette	INFO	Listening on port 41875
+1595495654743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595495778082	Marionette	INFO	Listening on port 43809
+1595495778101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595495817571	Marionette	INFO	Listening on port 36025
+1595495817628	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1595495826558	Marionette	INFO	Listening on port 34609
+1595495826614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595495850223	Marionette	INFO	Stopped listening on port 35131
+1595495871418	Marionette	INFO	Listening on port 40055
+1595495871440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595495979612	Marionette	INFO	Listening on port 46245
+1595495979630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1595496003921	Marionette	INFO	Listening on port 42461
+1595496003973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595496131382	Marionette	INFO	Stopped listening on port 44653
+1595496131417	Marionette	INFO	Stopped listening on port 34609
+1595496131466	Marionette	INFO	Stopped listening on port 46245
+1595496131520	Marionette	INFO	Stopped listening on port 41719
+1595496131604	Marionette	INFO	Stopped listening on port 36343
+1595496131691	Marionette	INFO	Stopped listening on port 40055
+1595496131766	Marionette	INFO	Stopped listening on port 44675
+1595496131937	Marionette	INFO	Stopped listening on port 43809
+1595496132018	Marionette	INFO	Stopped listening on port 38071
+1595496132038	Marionette	INFO	Stopped listening on port 42461
+1595496132064	Marionette	INFO	Stopped listening on port 41875
+1595496210424	Marionette	INFO	Listening on port 46141
+1595496210520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595510397312	Marionette	INFO	Stopped listening on port 46141
+1595833313258	Marionette	INFO	Listening on port 44397
+1595833313299	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1595833506279	Marionette	INFO	Listening on port 33447
+1595833506294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595833746348	Marionette	INFO	Listening on port 40007
+1595833746453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595834017059	Marionette	INFO	Stopped listening on port 40007
+1595834018621	Marionette	INFO	Stopped listening on port 44397
+1595834018943	Marionette	INFO	Stopped listening on port 33447

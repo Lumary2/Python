@@ -8,31 +8,33 @@
 <body>
 <img src="/static/header.png" alt="header" width="1150" height="150"><br><br>
 
-<form>
+<form action="/submit" method="POST">
     <label for="fname">First name:</label><br>
     <input type="text" id="fname" name="fname"><br><br>
     <label for="lname">Last name:</label><br>
     <input type="text" id="lname" name="lname"><br><br>
-</form>
 
-<label for="pets">Choose your pet:</label>
-<select name="pets" id="pets">
-    <option value="owl">Owl</option>
-    <option value="cat">Cat</option>
-    <option value="rat">Rat</option>
-    <option value="toad">Toad</option>
-</select>
-<br><br>
 
-<label for="pets">Are you staying at Hogwarts during Christmas?</label><br><br>
-<form>
-    <input type="radio" id="yes" name="option" value="yes">
-    <label for="yes">Yes</label>
-    <input type="radio" id="no" name="option" value="no">
-    <label for="no">No</label><br>
+    <label for="pets">Choose your pet:</label>
+    <select name="pets" id="pets">
+        <option value="owl">Owl</option>
+        <option value="cat">Cat</option>
+        <option value="rat">Rat</option>
+        <option value="toad">Toad</option>
+    </select>
+    <br><br>
+
+    <label>Are you staying at Hogwarts during Christmas?</label><br><br>
+
+
+        <input type="radio" id="yes" name="option" value="yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no" name="option" value="no">
+        <label for="no">No</label><br>
+
+    <br><br>
+        <button><a>Send</a></button><br>
 </form>
-<br><br>
-<button><a href="/my-link/">Send</a></button><br>
 <img src="/static/phoenix.png" alt="phoenix" width="250" height="250">
 
 </body>

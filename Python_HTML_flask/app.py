@@ -34,7 +34,12 @@ def submit():
   db.session.add(student)
   db.session.commit()
 
-  return render_template('success.html')
+  #fetch a certain student2
+  studentResult=db.session.query(Student).filter(Student.id==1)
+  for result in studentResult:
+    print(result.fname)
+
+  return render_template('success.html', data=fname)
 
 
 if __name__ == '__main__':  #python interpreter assigns "__main__" to the file you run

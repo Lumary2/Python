@@ -6,7 +6,6 @@ root.title("Calculator")
 
 calc_input=tk.Text(root, height=1, width=19, font=("Arial", 20))
 calc_input.grid(columnspan=3)
-calc_input.insert(1.0, "")
 
 result=""
 
@@ -14,7 +13,7 @@ def calc():
     result=eval(retrieve_input())
     print(result)
     calc_input.delete(1.0,"end")
-    calc_input.insert(1.0,str(result))
+    calc_input.insert("end",str(result))
 
 def retrieve_input():
     input = calc_input.get("1.0",tk.END)

@@ -11,7 +11,6 @@ result=""
 
 def calc():
     result=eval(retrieve_input())
-    print(result)
     calc_input.delete(1.0,"end")
     calc_input.insert(1.0,str(result))  
     

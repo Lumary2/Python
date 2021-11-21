@@ -13,8 +13,8 @@ def calc():
     result=eval(retrieve_input())
     print(result)
     calc_input.delete(1.0,"end")
-    calc_input.insert("end",str(result))
-
+    calc_input.insert(1.0,str(result))  
+    
 def retrieve_input():
     input = calc_input.get("1.0",tk.END)
     return input

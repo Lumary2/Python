@@ -1,7 +1,8 @@
 import tkinter as tk
 
 root = tk.Tk()
-root.geometry("300x270")
+root.geometry("300x300")
+root.title("Calculator")
 
 calc_input=tk.Text(root, height=1, width=19, font=("Arial", 20))
 calc_input.grid(columnspan=3)
@@ -44,20 +45,22 @@ button_8=tk.Button(root,text="8",command=lambda:input(8),height=1,width=5,font=(
 button_8.grid(row=4,column=1)
 button_9=tk.Button(root,text="9",command=lambda:input(9),height=1,width=5,font=("Arial",18))
 button_9.grid(row=4,column=2)
+button_0=tk.Button(root,text="0",command=lambda:input(0),height=1,width=5,font=("Arial",18))
+button_0.grid(row=5,column=0)
 
 button_plus=tk.Button(root,text="+",command=lambda:input("+"),height=1,width=5,font=("Arial",18))
-button_plus.grid(row=5,column=0)
+button_plus.grid(row=5,column=1)
 button_minus=tk.Button(root,text="-",command=lambda:input("-"),height=1,width=5,font=("Arial",18))
-button_minus.grid(row=5,column=1)
+button_minus.grid(row=5,column=2)
 button_result=tk.Button(root,text="=",command=lambda:calc(),height=1,width=5,font=("Arial",18))
-button_result.grid(row=5,column=2)
+button_result.grid(row=6,column=0)
 
 button_divide=tk.Button(root,text="/",command=lambda:input("/"),height=1,width=5,font=("Arial",18))
-button_divide.grid(row=6,column=0)
+button_divide.grid(row=6,column=1)
 button_multiply=tk.Button(root,text="*",command=lambda:input("*"),height=1,width=5,font=("Arial",18))
-button_multiply.grid(row=6,column=1)
+button_multiply.grid(row=6,column=2)
 button_result=tk.Button(root,text="clear",command=lambda:clear(),height=1,width=5,font=("Arial",18),bg='#b42506',fg='white')
-button_result.grid(row=6,column=2)
+button_result.grid(row=7,column=1)
 
 root.mainloop()
 
